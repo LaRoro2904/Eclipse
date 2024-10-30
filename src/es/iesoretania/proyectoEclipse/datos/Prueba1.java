@@ -5,5 +5,8 @@ public class Prueba1 {
 		System.out.println("Adiós mundo!)");
 			System.out.println("holis");
 			System.out.println("Adiós bye!)");
+		
+		System.out.println("Hola 1!");
+		System.out.println("Adiós 2!)");
 	}
 }
